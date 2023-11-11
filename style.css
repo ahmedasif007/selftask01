@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 5px 5px;
+    box-sizing: border-box;
+}
+body{
+    padding: 4rem 6rem;
+}
+section{
+    display: flex;
+}
+.section-2{
+    background-color: #00001a;
+    height: 470px;
+    margin-top: 0.6rem;
+}
+.section-2 p{
+    color: #f5f5f59a;
+}
+h4{
+    color: azure;
+}
+h2{
+    color: rgba(218, 165, 32, 0.799);
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.navbar{
+    display: flex;
+    gap: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 0.10rem;
+    color: black;
+}
+.line{
+    height: 2px;
+    width: 100%;
+    border-top: 1px solid grey;
+}
+.text{
+    height: 100px;
+}
+.left{
+    display: flex;
+}
+img{
+    height: 300px;
+    width: 800px;
+}
+.left-text{
+font-weight: bold;
+width: 400px;
+font-size: xx-large;}
+.left-text-right{
+    height: 200px;
+    width: 400px;
+    padding: 0.75rem;
+    color: #7f5f5f
+}
+.btn{
+    gap: 1rem;
+    background-color: orangered;
+    width: 60%;
+    border: none;
+    color: white;
+}
+.first img{
+    height: 150px;
+    width: 100px;
+}
+.first{
+    display: flex;
+    height: 120px;
+    width: 33%;
+}
+.second img{
+    height: 150px;
+    width: 100px;
+}
+.second{
+    display: flex;
+    height: 120px;
+    width: 33%;
+}
+.thard img{
+    height: 150px;
+    width: 100px;
+}
+.thard{
+    display: flex;
+    height: 120px;
+    width: 33%;
+}
+.bottom{
+    display: flex;
+}
+.bottom h1, p{
+    color: gray;
+}
+h2{
+    color: black;
+    font-weight: bolder;
+}
